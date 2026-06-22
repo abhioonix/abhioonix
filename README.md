@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Python%20Developer%20%7C%20LangChain%20Enthusiast;Based%20in%20Chandigarh%2C%20India;Always%20learning%2C%20always%20building;Add%20your%20custom%20tagline%20here&font=Fira%20Code&center=true&width=990&height=44&duration=4000&pause=1000&color=00FF00&color2=32CD32&vCenter=true&size=26&cursor=underscore" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Agentic%20Developer%20%7C%20LangChain%20Enthusiast;Always%20learning%2C%20always%20building&font=Fira%20Code&center=true&width=990&height=44&duration=4000&pause=1000&color=00FF00&color2=32CD32&vCenter=true&size=26&cursor=underscore" />
 </p>
 
 <h3 align="center">Developer From Chandigarh</h3>
