@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Agentic%20Developer%20%7C%20LangChain%20Enthusiast;Always%20learning%2C%20always%20building&font=Fira%20Code&center=true&width=990&height=44&duration=4000&pause=1000&color=00FF00&color2=32CD32&vCenter=true&size=26&cursor=underscore" />
 </p>
 
-<h3 align="center">Developer From Chandigarh</h3>
+<h3 align="center">Based in Chandigarh</h3>
 
 <!-- Social Badges -->
 <h3 align="left">Connect with me:</h3>
